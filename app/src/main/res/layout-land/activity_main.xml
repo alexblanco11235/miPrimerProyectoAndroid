@@ -5,18 +5,17 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     tools:context="com.tarea.jimmy.miprimerproyectoandroid.MainActivity"
-    android:weightSum="1"
     android:background="@drawable/fondo">
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/tvTitulo"
-        android:textSize="50dp"
         android:textStyle="bold"
+        android:textSize="50dp"
         android:textColor="#FFFFFF"
         android:layout_gravity="center_horizontal"
-        android:layout_marginTop="60dp"
+        android:layout_marginTop="20dp"
         />
     <Button
         android:layout_width="wrap_content"
@@ -24,6 +23,6 @@
         android:text="@string/btnTitulo"
         android:textColor="#FFFFFF"
         android:layout_gravity="center_horizontal"
-        android:layout_marginTop="150dp"/>
-
+        android:layout_marginTop="50dp"
+       />
 </LinearLayout>

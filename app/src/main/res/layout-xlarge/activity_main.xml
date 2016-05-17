@@ -12,11 +12,11 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/tvTitulo"
-        android:textSize="50dp"
+        android:textSize="70dp"
         android:textStyle="bold"
         android:textColor="#FFFFFF"
         android:layout_gravity="center_horizontal"
-        android:layout_marginTop="60dp"
+        android:layout_marginTop="20dp"
         />
     <Button
         android:layout_width="wrap_content"
@@ -24,6 +24,6 @@
         android:text="@string/btnTitulo"
         android:textColor="#FFFFFF"
         android:layout_gravity="center_horizontal"
-        android:layout_marginTop="150dp"/>
+        android:layout_marginTop="50dp"/>
 
 </LinearLayout>
